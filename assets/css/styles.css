@@ -693,7 +693,7 @@ img {
 /* For small devices (Mobile) */
 @media screen and (max-width: 576px) {
   .owner_img {
-    width: 95px;
+    width: 90px;
   }
   .owner_name{
     position: absolute;
@@ -706,7 +706,7 @@ img {
     margin-inline: 1rem;
   }
   .home__image {
-    max-width: 120px;
+    max-width: 100px;
     align-items: center;
   }
 
